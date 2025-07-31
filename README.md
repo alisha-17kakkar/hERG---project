@@ -34,7 +34,7 @@ The trained model demonstrated strong predictive performance on the test set, ac
 - ### Confusion Matrix
 *The chart below visually confirms the model's performance, showing the number of correct and incorrect predictions for each class.*
 
-![Confusion Matrix]
+![Confusion Matrix]https://github.com/alisha-17kakkar/hERG---project/blob/main/confusion%20matrix.png?raw=true
 
 ## Conclusion
 
