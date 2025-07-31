@@ -31,6 +31,10 @@ The trained model demonstrated strong predictive performance on the test set, ac
 
 - **Precision (Active Class):** 84%
 - **Recall (Active Class):** 84%
+- ### Confusion Matrix
+*The chart below visually confirms the model's performance, showing the number of correct and incorrect predictions for each class.*
+
+![Confusion Matrix]
 
 ## Conclusion
 
