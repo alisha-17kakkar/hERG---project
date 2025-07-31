@@ -35,7 +35,6 @@ The trained model demonstrated strong predictive performance on the test set, ac
 *The chart below visually confirms the model's performance, showing the number of correct and incorrect predictions for each class.*
 
 ![Confusion Matrix]https://github.com/alisha-17kakkar/hERG---project/blob/main/confusion%20matrix.png?raw=true
-
 ## Conclusion
 
 This project successfully demonstrates the creation of an end-to-end cheminformatics workflow for a critical drug safety problem. The resulting model is a useful tool for prioritizing compounds in the early stages of drug discovery.
